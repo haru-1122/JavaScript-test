@@ -1,0 +1,16 @@
+div#map {
+    position: absolute;
+    display: flex;
+    top: 50%;
+    left: 50%;
+    justify-content: center;
+    transform: translate(-50%,-50%);
+}
+
+div.stage{
+    margin: 80px;
+    width: 100px;
+    height: 100px;
+    background-color: #000;
+    border-radius: 50%;
+}
